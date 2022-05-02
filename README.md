@@ -1,1 +1,1 @@
-# opengl_school_project
+A simple OpenGL project for school.  It is a 3D scene with animated textured objects with a free floating, 360 degrees roatating camera. It also has light sources, shadows, a day and night cycle, a fog filter and a mesh view mode.
